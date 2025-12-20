@@ -1,8 +1,9 @@
-1. Установи Python 3.8+
-2. Установи зависимости: pip install -r requirements.txt
-3. Запусти: python auth_backend.py
-4. Сервер на http://localhost:8000
-5. Документация: http://localhost:8000/docs
+1. Установи Python 3.13.3
+2. Создать виртуальное окружение: py -3.13 -m venv venv
+3. Запустить виртуальное окружение: source venv/Scripts/activate
+4. Установи зависимости: pip install -r requirements.txt
+5. Запустить: python auth_backend.py
+6. Документация: http://localhost:8000/docs
 
 Эндпоинты:
 - POST /api/register - регистрация

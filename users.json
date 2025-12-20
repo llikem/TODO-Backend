@@ -1,0 +1,14 @@
+{
+  "1": {
+    "id": "1",
+    "email": "string@example.com",
+    "username": "vlad",
+    "password_hash": "0362795b2ee7235b3b4d28f0698a85366703eacf0ba4085796ffd980d7653337"
+  },
+  "2": {
+    "id": "2",
+    "email": "string@zahar.com",
+    "username": "zahar",
+    "password_hash": "0362795b2ee7235b3b4d28f0698a85366703eacf0ba4085796ffd980d7653337"
+  }
+}
